@@ -1,0 +1,16 @@
+.separacion{
+  border-right: 2px solid #a2a2a2;
+}
+
+main{
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+
+.rigth,.left{
+  background-color: rgb(142, 93, 98);
+  width: 50%;
+  margin: 25px;
+}
+
